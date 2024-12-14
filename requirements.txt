@@ -1,0 +1,9 @@
+notebook
+langchain
+langsmith
+langchain-openai
+langchain-experimental
+pandas
+langchain-community
+langchain_text_splitters
+PyMuPDF
