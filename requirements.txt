@@ -7,3 +7,4 @@ pandas
 langchain-community
 langchain_text_splitters
 PyMuPDF
+pydantic
